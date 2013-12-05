@@ -1,6 +1,8 @@
-iosNativeStoryboardArc
-======================
+fractales
+=========
 
-OpenFrameworks iOS native example/skeleton project with storyboards &amp; ARC.
+App educativa de fractales implementada con openframeworks con uso de storyboards de forma nativa
 
-Please see: [https://github.com/openframeworks/openFrameworks/issues/1829](https://github.com/openframeworks/openFrameworks/issues/1829)
+Concepto Original: Dr. Vicente Cubells Nonell
+
+Desarollo: Ing. Jorge Ruiz Espin
